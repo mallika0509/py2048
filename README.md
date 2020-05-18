@@ -10,7 +10,7 @@ if you enter a character other than the above mentioned ones, you will have to r
 the moment winning quantity appears on the matrix,u win the game.
 similarly, if the matrix if full of non-zero numbers before the winning amount appears, you will have lost the game.
 
-[GAME WAS RUN ON WINDOWS IN COMMAND PROMPT]
+[GAME WAS RUN ON WINDOWS IN COMMAND PROMPT USING SUBLIME TEXT]
 
 The first few lines of the code, require the user to enter the desired size of matrix and the amount required to win.
 
